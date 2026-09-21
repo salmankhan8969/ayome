@@ -1,0 +1,7 @@
+{
+  "name": "Ayome",
+  "description": "Voice party chat room with live Bounty Football betting wheel game, luxury audio seats, lucky bags, and real-time multiplayer excitement",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
